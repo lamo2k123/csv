@@ -1,0 +1,23 @@
+{
+  "name": "csv",
+  "version": "1.0.0",
+  "description": "Convert objects to CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "csv",
+    "object",
+    "convert"
+  ],
+  "author": "Aleksey Novikov <lamo2k123@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lamo2k123/csv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lamo2k123/csv/issues"
+  }
+}
